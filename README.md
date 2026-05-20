@@ -21,12 +21,12 @@ git clone https://github.com/Huittoyo/interview-helper-skills.git "$env:USERPROF
 
 **macOS / Linux — 用户级安装**
 ```bash
-git clone https://github.com/Huittoyo/interview-helper-skills.git ~/.claude/skills/interview
+git clone https://github.com/raincfhnj/interview-helper-skills.git ~/.claude/skills/interview
 ```
 
 **项目级安装**（只在某个项目内可用，在该项目根目录执行）
 ```powershell
-git clone https://github.com/Huittoyo/interview-helper-skills.git .claude/skills/interview
+git clone https://github.com/raincfhnj/interview-helper-skills.git .claude/skills/interview
 ```
 
 ### 验证安装
