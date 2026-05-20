@@ -16,7 +16,7 @@
 
 **Windows (PowerShell) — 用户级安装（所有项目可用，推荐）**
 ```powershell
-git clone https://github.com/Huittoyo/interview-helper-skills.git "$env:USERPROFILE\.claude\skills\interview"
+git clone https://github.com/raincfhnj/interview-helper-skills.git "$env:USERPROFILE\.claude\skills\interview"
 ```
 
 **macOS / Linux — 用户级安装**
